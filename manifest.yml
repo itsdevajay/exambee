@@ -1,6 +1,0 @@
----
-applications:
-- name: asdf-193579
-  memory: 255M
-  host: asdf-193579
-  domain: eu-gb.mybluemix.net
